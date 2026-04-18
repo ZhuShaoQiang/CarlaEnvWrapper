@@ -1,4 +1,0 @@
-[submodule "carla_env_wrapper/external/leaderboard_1"]
-	path = carla_env_wrapper/external/leaderboard_1
-	url = git@github.com:carla-simulator/leaderboard.git
-	branch = leaderboard-1.0
